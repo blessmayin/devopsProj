@@ -1,1 +1,2 @@
- echo "chicken and bread"
+echo "1(ONE)"
+bash count2.sh
